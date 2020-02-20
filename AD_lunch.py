@@ -63,7 +63,7 @@ def apnoe_detection(new_file):
     data_segments, data_tags = data.preprocess_flow_slide()
     print("Preprocess done.")
 
-    model = load_model("flow_model_200_nice.h5")
+    model = load_model("Flow_CNN_model.h5")
 
     keras2ascii(model)
     print("Keras model loaded")
@@ -114,7 +114,7 @@ def saturation_detection(new_file):
     data_segments, data_tags = data.preprocess_spo2_slide()
     print("Probehlo zpracovani dat.")
 
-    model = load_model("spo2_model_200.h5")
+    model = load_model("SpO2_CNN_model.h5")
     keras2ascii(model)
     print("Nacten Keras model")
 
