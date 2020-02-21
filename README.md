@@ -34,7 +34,7 @@ tags are saved into new copied file.
 
     -   Struct
 
-    -   Window\_slider 0.8
+    -   Window_slider 0.8
 
     -   Collections
 
@@ -44,7 +44,7 @@ tags are saved into new copied file.
 
 > (all available from pip: <https://pypi.org/>)
 
--   Input data -- ".d" file with flow and SpO~2~ signal.
+-   Input data = ".d" file with flow and SpO2 signal.
 
 If you are new to python environment follow:
 <https://wiki.python.org/moin/BeginnersGuide>
@@ -61,21 +61,19 @@ In case of error or any questions please contact me on
 <ma.barton@seznam.cz>
 
 This detector is not final product. We are still working on
-improvements.\
+improvements
 <h2>How to use ApnoeDetect</h2>
 
 1)  Launch file *AD\_GUI.py* with installed python3.
 
 2)  The application will pop up window.
 
-![](https://github.com/mabartcz/ApnoeDetect/blob/master/screens/AD_1.png?raw=true){width="6.295833333333333in"
-height="3.3819444444444446in"}
+![](https://github.com/mabartcz/ApnoeDetect/blob/master/screens/AD_1.png?raw=true)
 
 3)  Click on "*Add file*". The classic dialog window for file selection
     will show up. Select your file with suffix ".d".
 
-![](https://github.com/mabartcz/ApnoeDetect/blob/master/screens/AD_2.png?raw=true){width="6.295833333333333in"
-height="3.408333333333333in"}
+![](https://github.com/mabartcz/ApnoeDetect/blob/master/screens/AD_2.png?raw=true)
 
 4)  Name of your file will show up in the window. Check if it is
     correct.
@@ -86,13 +84,11 @@ height="3.408333333333333in"}
     can track progress in console. The detection process may be long
     (few minutes based on computation power).
 
-![](https://github.com/mabartcz/ApnoeDetect/blob/master/screens/AD_3.png?raw=true){width="6.295833333333333in"
-height="3.3965277777777776in"}
+![](https://github.com/mabartcz/ApnoeDetect/blob/master/screens/AD_3.png?raw=true)
 
 6)  After detection is done, the tags will be saved into copied file. On
     screen you will see results. Than you can close the window.
 
 7)  Example viewed in EEGviewer.
 
-![](https://github.com/mabartcz/ApnoeDetect/blob/master/screens/EEGviewer.png?raw=true){width="6.295833333333333in"
-height="3.6104166666666666in"}
+![](https://github.com/mabartcz/ApnoeDetect/blob/master/screens/EEGviewer.png?raw=true)
