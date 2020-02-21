@@ -18,7 +18,7 @@ network was learned from previously scored data by the doctors from
 NUDZ. The program is working with ".d" files from EASYS2 Brainscope. The
 tags are saved into new copied file.
 
-<h2>Technical requirements**
+<h2>Technical requirements</h2>
 
 -   Python 3.6 with libraries:
 
