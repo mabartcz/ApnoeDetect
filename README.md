@@ -1,15 +1,15 @@
-**ApnoeDetect**
+<h1>ApnoeDetect</h1>
 
 *"Simple software for automatic sleep apnea and oxygen desaturation
 detection based on neural networks for EASYS2 .d files"*
 
-**Authors:**
+<h2>Authors:</h2>
 
 -   Martin Bartoň
 
 -   Vlastimil Koudelka
 
-**Description**
+<h2>Description</h2>
 
 This experimental program can detect decrees in airflow and decrees in
 oxygen the main features of sleep apnea. The main advantage is that,
@@ -18,7 +18,7 @@ network was learned from previously scored data by the doctors from
 NUDZ. The program is working with ".d" files from EASYS2 Brainscope. The
 tags are saved into new copied file.
 
-**Technical requirements**
+<h2>Technical requirements**
 
 -   Python 3.6 with libraries:
 
@@ -62,7 +62,7 @@ In case of error or any questions please contact me on
 
 This detector is not final product. We are still working on
 improvements.\
-**How to use ApnoeDetect**
+<h2>How to use ApnoeDetect</h2>
 
 1)  Launch file *AD\_GUI.py* with installed python3.
 
