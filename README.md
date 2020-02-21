@@ -1,5 +1,4 @@
-![](media/image1.tiff){width="2.1149431321084866in"
-height="1.1448687664041994in"}**ApnoeDetect**
+**ApnoeDetect**
 
 *"Simple software for automatic sleep apnea and oxygen desaturation
 detection based on neural networks for EASYS2 .d files"*
@@ -75,7 +74,7 @@ height="3.3819444444444446in"}
 3)  Click on "*Add file*". The classic dialog window for file selection
     will show up. Select your file with suffix ".d".
 
-![](media/image3.png){width="6.295833333333333in"
+![](https://github.com/mabartcz/ApnoeDetect/blob/master/screens/AD_2.png?raw=true){width="6.295833333333333in"
 height="3.408333333333333in"}
 
 4)  Name of your file will show up in the window. Check if it is
@@ -87,7 +86,7 @@ height="3.408333333333333in"}
     can track progress in console. The detection process may be long
     (few minutes based on computation power).
 
-![](media/image4.png){width="6.295833333333333in"
+![](https://github.com/mabartcz/ApnoeDetect/blob/master/screens/AD_3.png?raw=true){width="6.295833333333333in"
 height="3.3965277777777776in"}
 
 6)  After detection is done, the tags will be saved into copied file. On
@@ -95,5 +94,5 @@ height="3.3965277777777776in"}
 
 7)  Example viewed in EEGviewer.
 
-![](media/image5.png){width="6.295833333333333in"
+![](https://github.com/mabartcz/ApnoeDetect/blob/master/screens/EEGviewer.png?raw=true){width="6.295833333333333in"
 height="3.6104166666666666in"}
