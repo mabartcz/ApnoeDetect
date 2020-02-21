@@ -69,7 +69,7 @@ improvements.\
 
 2)  The application will pop up window.
 
-![](media/image2.png){width="6.295833333333333in"
+![](https://github.com/mabartcz/ApnoeDetect/blob/master/screens/AD_1.png?raw=true){width="6.295833333333333in"
 height="3.3819444444444446in"}
 
 3)  Click on "*Add file*". The classic dialog window for file selection
