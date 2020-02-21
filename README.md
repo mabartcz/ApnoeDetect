@@ -6,7 +6,6 @@ detection based on neural networks for EASYS2 .d files"*
 <h2>Authors:</h2>
 
 -   Martin Bartoň
-
 -   Vlastimil Koudelka
 
 <h2>Description</h2>
@@ -23,23 +22,14 @@ tags are saved into new copied file.
 -   Python 3.6 with libraries:
 
     -   Keras 2.3.1
-
     -   Tensorflow 2.0.0
-
     -   AppJar 0.94.0
-
     -   Numpy 1.18.0
-
     -   Scipy 1.4.1
-
     -   Struct
-
     -   Window_slider 0.8
-
     -   Collections
-
     -   Pytictoc
-
     -   Shutil
 
 > (all available from pip: <https://pypi.org/>)
@@ -50,12 +40,11 @@ If you are new to python environment follow:
 <https://wiki.python.org/moin/BeginnersGuide>
 
 On windows a recommend using python portable:
-
 <http://winpython.github.io/>
 
 or Anaconda:
-
 <https://www.anaconda.com/>
+
 
 In case of error or any questions please contact me on
 <ma.barton@seznam.cz>
