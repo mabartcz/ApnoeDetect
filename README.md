@@ -5,7 +5,7 @@ detection based on neural networks for EASYS2 .d files"*
 
 <h2>Authors:</h2>
 
--   Martin BartoÀ
+-   Martin Barto≈à
 -   Vlastimil Koudelka
 
 <h2>Description</h2>
@@ -52,7 +52,7 @@ In case of error or any questions please contact me on
 This detector is not final product. We are still working on
 improvements
 
-This work was supported by project LO1611 under the NPU I program.
+**This work was supported by project LO1611 under the NPU I program.**
 
 
 <h2>How to use ApnoeDetect</h2>
